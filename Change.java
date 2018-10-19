@@ -4,7 +4,6 @@
  * 
  * @author: Daniel Garces
  * @date: 09/14/2018
- * @UNI: dg3008
  */
 
 import java.util.Scanner;
