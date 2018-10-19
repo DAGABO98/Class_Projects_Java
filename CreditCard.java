@@ -3,7 +3,6 @@
  * six different checks 
  * @author: Daniel Garces
  * @date: 09/29/2018
- * @UNI: dg3008
  */
 
 public class CreditCard{   
